@@ -7,7 +7,7 @@ super + Return
     kitty
 
 # file manager
-super + shift + f
+super + e
     pcmanfm
 
 # program launcher
@@ -25,6 +25,10 @@ control + shift + r
 # quit bspwm normally
 super + x
     ~/.config/rofi/powermenu/powermenu.sh
+
+# windows
+alt + Tab
+    ~/.config/rofi/window/window.sh
 
 # close and kill
 super + {_,shift + }c
