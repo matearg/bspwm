@@ -9,3 +9,4 @@ image/png=org.gnome.gThumb.desktop;
 [Default Applications]
 image/jpeg=org.gnome.gThumb.desktop
 image/png=org.gnome.gThumb.desktop
+x-scheme-handler/etcher=balena-etcher.desktop

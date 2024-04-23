@@ -18,16 +18,14 @@ disabled = true
 
 # Shows the shows the current user name
 [username]
-# format = '[\[[$user](white)](blue)'
-format = '[\[[m](white)](blue)'
+format = '[\[[$user](white)](blue)'
 show_always = true
 disabled = false
 
 # Shows the current host name
 [hostname]
 ssh_only = false
-# format = '[[@](red)[$hostname](white)\] ](blue)'
-format = '[[@](red)[a](white)\] ](blue)'
+format = '[[@](red)[$hostname](white)\] ](blue)'
 trim_at = ""
 disabled = false
 
